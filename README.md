@@ -88,6 +88,7 @@ _A curated[^curation_details] list of awesome resources on consumer protection[^
 3. [CFPB Financial Education](https://www.consumerfinance.gov/consumer-tools/): Tools, calculators, and guides for financial decisions.
 4. [Scam Awareness Resources](https://www.consumer.ftc.gov/scam-alerts): Latest scam alerts and prevention tips.
 5. [Consumer World](https://www.consumerworld.org): Catalog of 2,000+ consumer resources.
+6. [MindDividend Shield](https://alphaengineerai.com/global-online-scam-checker.html): Free multilingual first-pass education for suspicious messages, links, and payment requests, with privacy-first redaction guidance and official reporting routes; not a guarantee or official investigation.
 
 ## Privacy & Data Protection
 
