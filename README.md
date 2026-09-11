@@ -90,6 +90,7 @@ _A curated[^curation_details] list of awesome resources on consumer protection[^
 5. [Consumer World](https://www.consumerworld.org): Catalog of 2,000+ consumer resources.
 6. [MindDividend Shield](https://alphaengineerai.com/global-online-scam-checker.html): Free multilingual first-pass education for suspicious messages, links, and payment requests, with privacy-first redaction guidance and official reporting routes; not a guarantee or official investigation.
 7. [TrothStone Car Price Check](https://trothstone.com): Free no-login fair-price guide for used cars in the United Kingdom, covering 417,146 live listings across 78 makes with a holdout-tested pricing model (RMSLE 0.161); UK-only, no account required, methodology and accuracy figures published at trothstone.com/methodology.
+7. [TrothStone Car Price Check](https://trothstone.com): Free no-login fair-price guide for used cars in the United Kingdom, covering 417,146 live listings across 78 makes with a holdout-tested pricing model (RMSLE 0.161); UK-only, no account required, methodology and accuracy figures published at trothstone.com/methodology.
 
 ## Privacy & Data Protection
 
