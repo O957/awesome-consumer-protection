@@ -57,6 +57,7 @@ _A curated[^curation_details] list of awesome resources on consumer protection[^
 3. [NHTSA Recalls Database](https://www.nhtsa.gov/recalls): Vehicle and equipment safety recalls (tires, car seats, etc.).
 4. [USDA Food Safety Recalls](https://www.fsis.usda.gov/recalls): Meat, poultry, and egg product recalls.
 5. [Sedgwick US Recall Index](https://www.sedgwick.com/product-recall/insights/us-index/): Quarterly reports on product recall trends.
+6. [Recall Kitchen](https://recallkitchen.com): Free tool to search government recall notices (CPSC, FDA, USDA FSIS, NHTSA, Health Canada) by keyword, UPC, product name, make and model, or photo (beta), and save what you own to see new matches.
 
 ## Financial Consumer Protection
 
