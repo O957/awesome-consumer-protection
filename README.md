@@ -81,6 +81,7 @@ _A curated[^curation_details] list of awesome resources on consumer protection[^
 2. [National Consumer Law Center (NCLC)](https://www.nclc.org): Nonprofit advocacy for consumer justice and economic security.
 3. [Consumer Financial Protection Bureau - Legal Resources](https://www.consumerfinance.gov/practitioner-resources/): Resources for attorneys and legal aid providers.
 4. [Legal Services Corporation](https://www.lsc.gov/what-legal-aid/find-legal-aid): Find free legal aid for low-income consumers.
+5. [Lemon Law Finder](https://lemonlawfinder.com): Free case check and plain-English guides to every US state's lemon law, with statute quotes, deadlines, state arbitration programs and links to official sources (US).
 
 ## Educational Resources
 
