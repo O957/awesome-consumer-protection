@@ -58,6 +58,7 @@ _A curated[^curation_details] list of awesome resources on consumer protection[^
 4. [USDA Food Safety Recalls](https://www.fsis.usda.gov/recalls): Meat, poultry, and egg product recalls.
 5. [Sedgwick US Recall Index](https://www.sedgwick.com/product-recall/insights/us-index/): Quarterly reports on product recall trends.
 6. [Recall Kitchen](https://recallkitchen.com): Free tool to search government recall notices (CPSC, FDA, USDA FSIS, NHTSA, Health Canada) by keyword, UPC, product name, make and model, or photo (beta), and save what you own to see new matches.
+7. [Recall Radar](https://github.com/theluckystrike/recall-radar): Free, open-source (MIT) voice tool that checks NHTSA vehicle, CPSC product and FDA food and drug recalls and answers in one short spoken reply, with a watch list that reports only new recalls. It has a web demo that simulates Alexa+, and it never says a product is safe when nothing is found. U.S. recalls only; built for an Amazon developer hackathon.
 
 ## Financial Consumer Protection
 
