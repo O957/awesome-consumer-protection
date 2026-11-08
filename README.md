@@ -83,6 +83,7 @@ _A curated[^curation_details] list of awesome resources on consumer protection[^
 3. [Consumer Financial Protection Bureau - Legal Resources](https://www.consumerfinance.gov/practitioner-resources/): Resources for attorneys and legal aid providers.
 4. [Legal Services Corporation](https://www.lsc.gov/what-legal-aid/find-legal-aid): Find free legal aid for low-income consumers.
 5. [Lemon Law Finder](https://lemonlawfinder.com): Free case check and plain-English guides to every US state's lemon law, with statute quotes, deadlines, state arbitration programs and links to official sources (US).
+6. [Lease Red-Flag Scanner](https://lease-red-flag-scanner.vercel.app): Free, no-login scanner for California residential leases that flags risky clauses — improper entry notice, waiver-of-rights language, illegal fees, self-help eviction, retaliation, early-termination traps — and checks the security-deposit cap, citing the exact CA Civil Code section for each flag. Rule-based, no AI/model calls, no data stored (CA). Disclosure: self-submission; the tool is operated by the submitter.
 
 ## Educational Resources
 
