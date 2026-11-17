@@ -98,6 +98,7 @@ _A curated[^curation_details] list of awesome resources on consumer protection[^
 8. [isthisaigenerated.app](https://isthisaigenerated.app): Free consumer guides on recognising fake online shops, fake payment proofs, rental and marketplace listing scams, plus browser checkers that flag AI-generated images, documents and text as warning signals for human review; measured accuracy figures and limitations are published, and no account is required.
 9. [Ghost Money](https://ghost-money.surge.sh/): Free, no-login board that marks common 2026 US "free money" ads (rebates, tax credits, debt and student-loan forgiveness, text-message rebate checks) as Alive, Dead, or Changed, citing the IRS, Congress.gov, FTC, or agency source for each; includes a browser-based paste-an-ad checker that returns "Unknown" rather than guessing; not tax advice.
 10. [truediscount](https://emirmrkaljevic.github.io/truediscount/): Free, open-source browser extension that checks whether an EU shop discount is measured against the shop's lowest price of the last 30 days (Omnibus rule). Price history stays on the device; no account and no tracking. Also on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/truediscount/).
+11. [Paperwork Rules Guide — Return Shipping Documents](https://paperworkrulesguide.com/us/shipping/return-shipping-documents-claims-matrix/): Free US reference comparing nine return-shipping documents, what each proves, and seller-versus-carrier claim records; cites USPS, UPS, FedEx and FTC sources.
 
 ## Privacy & Data Protection
 
