@@ -84,6 +84,7 @@ _A curated[^curation_details] list of awesome resources on consumer protection[^
 4. [Legal Services Corporation](https://www.lsc.gov/what-legal-aid/find-legal-aid): Find free legal aid for low-income consumers.
 5. [Lemon Law Finder](https://lemonlawfinder.com): Free case check and plain-English guides to every US state's lemon law, with statute quotes, deadlines, state arbitration programs and links to official sources (US).
 6. [Lease Red-Flag Scanner](https://lease-red-flag-scanner.vercel.app): Free, no-login scanner for California residential leases that flags risky clauses — improper entry notice, waiver-of-rights language, illegal fees, self-help eviction, retaliation, early-termination traps — and checks the security-deposit cap, citing the exact CA Civil Code section for each flag. Rule-based, no AI/model calls, no data stored (CA). Disclosure: self-submission; the tool is operated by the submitter.
+7. [Contractor Deposit Limits by State](https://ripoff.pro/tools/deposit-limits): Free, no-login table of how much a home improvement contractor may ask up front in each US state and DC, citing the statute for each of the 10 states that cap deposits, with a calculator that compares a quote's deposit with the state rule (US). Disclosure: self-submission; made by Ripoff (Winding), which also sells a paid quote check.
 
 ## Educational Resources
 
@@ -97,6 +98,8 @@ _A curated[^curation_details] list of awesome resources on consumer protection[^
 8. [isthisaigenerated.app](https://isthisaigenerated.app): Free consumer guides on recognising fake online shops, fake payment proofs, rental and marketplace listing scams, plus browser checkers that flag AI-generated images, documents and text as warning signals for human review; measured accuracy figures and limitations are published, and no account is required.
 9. [Ghost Money](https://ghost-money.surge.sh/): Free, no-login board that marks common 2026 US "free money" ads (rebates, tax credits, debt and student-loan forgiveness, text-message rebate checks) as Alive, Dead, or Changed, citing the IRS, Congress.gov, FTC, or agency source for each; includes a browser-based paste-an-ad checker that returns "Unknown" rather than guessing; not tax advice.
 10. [ShrinkWatch EU](https://emirmrkaljevic.github.io/shrinkwatch-eu/): Free, open-source browser extension that shows the price per kg or litre on EU grocery shops and warns when a pack gets smaller for the same price. Data stays in the browser; no account and no tracking. Also on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/shrinkwatch-eu/).
+11. [truediscount](https://emirmrkaljevic.github.io/truediscount/): Free, open-source browser extension that checks whether an EU shop discount is measured against the shop's lowest price of the last 30 days (Omnibus rule). Price history stays on the device; no account and no tracking. Also on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/truediscount/).
+12. [Paperwork Rules Guide — Return Shipping Documents](https://paperworkrulesguide.com/us/shipping/return-shipping-documents-claims-matrix/): Free US reference comparing nine return-shipping documents, what each proves, and seller-versus-carrier claim records; cites USPS, UPS, FedEx and FTC sources.
 
 ## Privacy & Data Protection
 
